@@ -1,6 +1,6 @@
 using System;
 /* Declaration syntax in C# is [access-specifier] [type] [name] */
-static class LinkedListHelpers
+public static class LinkedListHelpers
 {
 
     public static Node removeDuplicate(Node node)

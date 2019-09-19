@@ -2,9 +2,9 @@
 
 namespace linked_list
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         { 
             string[] data = new string[]{"E", "B", "E", "E", "B", "A", "B"};    
             Node linked_list = LinkedListHelpers.createLinkedList(new string[]{"E", "B", "E", "E", "B", "A", "B"});
