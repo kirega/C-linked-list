@@ -16,17 +16,18 @@ public static class LinkedListHelpers
         {
             if (history.ContainsKey(node.data))
             {
-                if (history[node.data] >= 2)
-                {
-                    prev.next = node.next;
-                }
                 history[node.data]++;
-            }
-            else
-            {
+            } else {
                 history.Add(node.data, 1);
-                prev = node;
             }
+
+            if (history[node.data] > 2)
+            {
+                prev.next = node.next;
+            } else {
+                 prev = node;
+            }
+            
             node = node.next;
         }
 
@@ -58,6 +59,6 @@ public static class LinkedListHelpers
             }
             return head;
         }
-        return new Node("Error");
+        throw new Exception("Invalid");
     }
 }
