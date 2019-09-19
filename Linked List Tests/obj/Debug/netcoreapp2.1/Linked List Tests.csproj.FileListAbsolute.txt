@@ -1,0 +1,17 @@
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\Linked List Tests.deps.json
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\Linked List Tests.runtimeconfig.json
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\Linked List Tests.runtimeconfig.dev.json
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\Linked List Tests.dll
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\Linked List Tests.pdb
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.AssemblyInfoInputs.cache
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.AssemblyInfo.cs
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.dll
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.pdb
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\linked list.dll
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\bin\Debug\netcoreapp2.1\linked list.pdb
+C:\Users\X1 Carbon\Documents\project\tech\linked list\Linked List Tests\obj\Debug\netcoreapp2.1\Linked List Tests.csproj.CopyComplete
