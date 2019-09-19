@@ -1,26 +1,31 @@
 using System;
+using System.Collections.Generic;
+
 /* Declaration syntax in C# is [access-specifier] [type] [name] */
 public static class LinkedListHelpers
 {
 
     public static Node removeDuplicate(Node node)
     {
-        string history = "";
+        Dictionary<string, int> history = new Dictionary<string, int>() ;
         Node head = node;
         Node prev = node;
+
     
         while (node != null)
         {
-            int count = history.Length - history.Replace(node.data, "").Length;
-        
-            if (count >= 2)
+            if (history.ContainsKey(node.data))
             {
-                prev.next = node.next;
+                if (history[node.data] >= 2)
+                {
+                    prev.next = node.next;
+                }
+                history[node.data]++;
             }
             else
             {
+                history.Add(node.data, 1);
                 prev = node;
-                history += node.data;
             }
             node = node.next;
         }
